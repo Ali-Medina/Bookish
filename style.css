@@ -223,6 +223,7 @@
   width: 600px;
   height: 800px;
   border: 1px solid;
+  overflow-wrap: break-word;
 }
 
 #grass {
@@ -252,6 +253,9 @@
   font: white;
   font-family:Arial, Helvetica, sans-serif;
   align-items: center;
+  width: 600px;
+  height: 800px;
+
 }
 
 
