@@ -16,6 +16,12 @@
 </p>
 
 <p>
+  <label for="grass-color">grass color</label>
+  <input id="grass-color" type="color" value="#ffff00" />
+  <output for="grass-color"></output>
+</p>
+
+<p>
   <label for="ladybug-x">ladybug x</label>
   <input id="ladybug-x" type="range" min="0" max="400" value="100" />
   <label for="ladybug-y">ladybug y</label>
@@ -55,7 +61,8 @@
 </p>
 
 <div id="bg">
-  <img id="bg" src="assets/grass.JPG" alt="beautiful green grass">
+  <div id="grass-overlay"></div>
+  <img id="grass" src="assets/grass.JPG" alt="beautiful green grass">
   <h1 class="headline" id="word" style="font-size: 6rem; color: white;">hello</h1>
   <img class="bugs" id="ladybug" src="assets/ladybug.png" alt="ladybug">
   <img class="bugs" id="butterfly" src="assets/butterfly.png" alt="butterfly">

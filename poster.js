@@ -2,6 +2,9 @@
 let word = document.getElementById("word")
 let headline = document.getElementById("headline")
 
+let grassOverlay = document.getElementById("grass-overlay")
+let grassColorOutput = document.querySelector("output[for=grass-color]")
+let grassColor = document.getElementById("grass-color")
 
 let ladybug = document.getElementById("ladybug")
 let ladybugX = document.getElementById("ladybug-x")
@@ -45,6 +48,14 @@ function updateTransform(element, xInput, yInput, rotationInput) {
     element.style.transform = `translate(${xInput.value}px, ${yInput.value}px) rotate(${rotationInput.value}deg)`
 }
 
+// function updateColor(element, input) {
+//   element.style.background = input.Value
+// }
+function changeColor(element, colorInput) {
+  element.style.backgroundColor = colorInput.value
+}
+
+
 // Headline
 
 function updateText(element, input) {
@@ -54,6 +65,13 @@ function updateText(element, input) {
 headline.addEventListener("input", function () {
   updateText(word, headline)
 })
+
+// Color
+grassColor.addEventListener("input", function () {
+  changeColor(grassOverlay, grassColor)
+  updateOutput(grassColorOutput, grassColor)
+})
+
 
 // ladybug
 ladybugX.addEventListener("input", function (event) {

@@ -24,7 +24,6 @@
   }
  
   body {
-    font-family: 'Cormorant Garamond', serif;
     color: var(--navy);
   }
 
@@ -226,6 +225,19 @@
   border: 1px solid;
 }
 
+#grass {
+  width: 600px;
+  height: 800px;
+}
+
+#grass-overlay {
+    position: absolute;
+    width: 600px;
+    height: 800px;
+    background: #38571a;
+    opacity: 0.4;
+}
+
 .bugs {
   width: 150px;
   position: absolute;
@@ -236,6 +248,11 @@
 .headline {
   position: absolute;
   top: 0;
-  left: 0
+  left: 0;
+  font: white;
+  font-family:Arial, Helvetica, sans-serif;
+  align-items: center;
 }
+
+
 
