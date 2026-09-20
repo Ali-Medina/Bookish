@@ -86,7 +86,7 @@ butterflyY.addEventListener("input", function (event) {
   updateTransform(butterfly, butterflyX, butterflyY, butterflyRotation);
 })
 butterflyScale.addEventListener("input", function (event) {
-  updateScale(buttefly, butterflyScale)
+  updateScale(butterfly, butterflyScale)
 })
 
 butterflyRotation.addEventListener("input", function (event) {
