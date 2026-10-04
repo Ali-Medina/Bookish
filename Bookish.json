@@ -1,0 +1,268 @@
+[
+  {
+    "Title": "Gone Girl",
+    "Author": "Gillian Flynn",
+    "Genre": "Mystery",
+    "Mood": "tense, dark, fast",
+    "Path": "assets/gonegirl.png"
+  },
+  {
+    "Title": "The Girl with the Dragon Tattoo",
+    "Author": "Stieg Larsson",
+    "Genre": "Mystery",
+    "Mood": "tense, gritty, fast",
+    "Path": "assets/thegirlwiththedragontattoo.png"
+  },
+  {
+    "Title": "And Then There Were None",
+    "Author": "Agatha Christie",
+    "Genre": "Mystery",
+    "Mood": "tense, spooky, deep",
+    "Path": "assets/andthentherewerenone.png"
+  },
+  {
+    "Title": "The Silent Patient",
+    "Author": "Alex Michaelides",
+    "Genre": "Mystery",
+    "Mood": "tense, deep, dark",
+    "Path": "assets/theslientpatient.png"
+  },
+  {
+    "Title": "Big Little Lies",
+    "Author": "Liane Moriarty",
+    "Genre": "Mystery",
+    "Mood": "tense, feel-good, fast",
+    "Path": "assets/biglittlelies.png"
+  },
+  {
+    "Title": "The Thursday Murder Club",
+    "Author": "Richard Osman",
+    "Genre": "Mystery",
+    "Mood": "feel-good, cozy, humorous",
+    "Path": "assets/thethursdaymurderclub.png"
+  },
+  {
+    "Title": "Pride and Prejudice",
+    "Author": "Jane Austen",
+    "Genre": "Romance",
+    "Mood": "feel-good, relaxing, nostalgic",
+    "Path": "assets/prideandprejudice.png"
+  },
+  {
+    "Title": "The Notebook",
+    "Author": "Nicholas Sparks",
+    "Genre": "Romance",
+    "Mood": "deep, heartwarming, nostalgic",
+    "Path": "assets/thenotebook.png"
+  },
+  {
+    "Title": "Outlander",
+    "Author": "Diana Gabaldon",
+    "Genre": "Romance",
+    "Mood": "tense, epic, fast",
+    "Path": "assets/outlander.png"
+  },
+  {
+    "Title": "Red White & Royal Blue",
+    "Author": "Casey McQuiston",
+    "Genre": "Romance",
+    "Mood": "feel-good, humorous, fast",
+    "Path": "assets/redwhiteandroyalblue.png"
+  },
+  {
+    "Title": "Me Before You",
+    "Author": "Jojo Moyes",
+    "Genre": "Romance",
+    "Mood": "deep, heartwarming, tense",
+    "Path": "assets/mebeforeyou.png"
+  },
+  {
+    "Title": "The Hating Game",
+    "Author": "Sally Thorne",
+    "Genre": "Romance",
+    "Mood": "feel-good, humorous, fast",
+    "Path": "assets/thehatinggame.png"
+  },
+  {
+    "Title": "The Shining",
+    "Author": "Stephen King",
+    "Genre": "Horror",
+    "Mood": "spooky, tense, dark",
+    "Path": "assets/theshining.png"
+  },
+  {
+    "Title": "Dracula",
+    "Author": "Bram Stoker",
+    "Genre": "Horror",
+    "Mood": "spooky, tense, classic",
+    "Path": "assets/dracula.png"
+  },
+  {
+    "Title": "It",
+    "Author": "Stephen King",
+    "Genre": "Horror",
+    "Mood": "dark, tense, epic",
+    "Path": "assets/it.png"
+  },
+  {
+    "Title": "Mexican Gothic",
+    "Author": "Silvia Moreno-Garcia",
+    "Genre": "Horror",
+    "Mood": "spooky, deep, tense",
+    "Path": "assets/mexicangothic.png"
+  },
+  {
+    "Title": "The Haunting of Hill House",
+    "Author": "Shirley Jackson",
+    "Genre": "Horror",
+    "Mood": "spooky, deep, dark",
+    "Path": "assets/thehauntingofhillhouse.png"
+  },
+  {
+    "Title": "Bird Box",
+    "Author": "Josh Malerman",
+    "Genre": "Horror",
+    "Mood": "tense, fast, gritty",
+    "Path": "assets/birdbox.png"
+  },
+  {
+    "Title": "Educated",
+    "Author": "Tara Westover",
+    "Genre": "Non-fiction",
+    "Mood": "inspirational, deep, heartwarming",
+    "Path": "assets/educated.png"
+  },
+  {
+    "Title": "Sapiens",
+    "Author": "Yuval Noah Harari",
+    "Genre": "Non-fiction",
+    "Mood": "deep, epic, inspirational",
+    "Path": "assets/sapiens.png"
+  },
+  {
+    "Title": "Atomic Habits",
+    "Author": "James Clear",
+    "Genre": "Non-fiction",
+    "Mood": "inspirational, relaxing, feel-good",
+    "Path": "assets/atomichabits.png"
+  },
+  {
+    "Title": "Born a Crime",
+    "Author": "Trevor Noah",
+    "Genre": "Non-fiction",
+    "Mood": "humorous, inspiration, deep",
+    "Path": "assets/bornacrime.png"
+  },
+  {
+    "Title": "Into Thin Air",
+    "Author": "Jon Krakauer",
+    "Genre": "Non-fiction",
+    "Mood": "epic, deep, fast",
+    "Path": "assets/intothinair.png"
+  },
+  {
+    "Title": "The Glass Castle",
+    "Author": "Jeannette Walls",
+    "Genre": "Non-fiction",
+    "Mood": "deep, inspirational, heartwarming",
+    "Path": "assets/theglasscastle.png"
+  },
+  {
+    "Title": "The Hobbit",
+    "Author": "J.R.R. Tolkien",
+    "Genre": "Adventure",
+    "Mood": "fantasy, epic, fast",
+    "Path": "assets/thehobbit.png"
+  },
+  {
+    "Title": "Life of Pi",
+    "Author": "Yann Martel",
+    "Genre": "Adventure",
+    "Mood": "deep, epic, tense",
+    "Path": "assets/lifeofpi.png"
+  },
+  {
+    "Title": "Treasure Island",
+    "Author": "Robert Louis Stevenson",
+    "Genre": "Adventure",
+    "Mood": "epic, feel-good, nostalgic",
+    "Path": "assets/treasureisland.png"
+  },
+  {
+    "Title": "The Alchemist",
+    "Author": "Paulo Coelho",
+    "Genre": "Adventure",
+    "Mood": "inspirational, deep, relaxing",
+    "Path": "assets/thealchemist.png"
+  },
+  {
+    "Title": "Journey to the Center of the Earth",
+    "Author": "Jules Verne",
+    "Genre": "Adventure",
+    "Mood": "fantasy, fast, tense",
+    "Path": "assets/journeytothecenteroftheearth.png"
+  },
+  {
+    "Title": "The Martian",
+    "Author": "Andy Weir",
+    "Genre": "Adventure",
+    "Mood": "tense, humorous, deep",
+    "Path": "assets/themartian.png"
+  },
+  {
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "Genre": "Drama",
+    "Mood": "classic, inspirational, tense",
+    "Path": "assets/tokillamockingbird.png"
+  },
+  {
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "Genre": "Drama",
+    "Mood": "deep, classic, nostalgic",
+    "Path": "assets/thegreatgatsby.png"
+  },
+  {
+    "Title": "A Streetcar Named Desire",
+    "Author": "Tennessee Williams",
+    "Genre": "Drama",
+    "Mood": "tense, dark, classic",
+    "Path": "assets/astreetcarnameddesire.png"
+  },
+  {
+    "Title": "The Kite Runner",
+    "Author": "Khaled Hosseini",
+    "Genre": "Drama",
+    "Mood": "deep, tense, heartwarming",
+    "Path": "assets/thekiterunner.png"
+  },
+  {
+    "Title": "Of Mice and Men",
+    "Author": "John Steinbeck",
+    "Genre": "Drama",
+    "Mood": "deep, nostalgic, classic",
+    "Path": "assets/ofmiceandmen.png"
+  },
+  {
+    "Title": "The Color Purple",
+    "Author": "Alice Walker",
+    "Genre": "Drama",
+    "Mood": "tense, inspirational, heartwarming",
+    "Path": "assets/thecolorpurple.png"
+  },
+  {
+    "Title": "Little Women",
+    "Author": "Louisa May Alcott",
+    "Genre": "Coming-of-Age",
+    "Mood": "classic, nostalgic, deep",
+    "Path": "assets/littlewomen.png"
+  },
+  {
+    "Title": "The Catcher in the Rye",
+    "Author": "J.D. Salinger",
+    "Genre": "Coming-of-Age",
+    "Mood": "classic, tense, nostalgic",
+    "Path": "assets/thecatcherintherye.png"
+  }
+]
