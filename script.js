@@ -76,14 +76,17 @@ function makeBook(book) {
     }
 
     newBook.innerHTML = `
-            <h1 class="bookTitle">${book.Title}</h1>
-             <h2 class="bookAuthor">${book.Author}</h2>
-             <div>
+             
+            <h2 class="bookGenres">${genreHTML}</h2>
+            <div>
                 <img class="bookCover" src="${book.Path}" />
              </div>
-             <h2 class="bookGenres">${genreHTML}</h2>
-             <h3 class="bookMoods">${moodHTML}</h3>
+             <h1 class="bookTitle">${book.Title}</h1>
+              <h2 class="bookAuthor">${book.Author}</h2>
+        
         `
+        // add the below line to innerHTML before backtic to add back in book moods
+        // <h3 class="bookMoods">${moodHTML}</h3>
     newBook.classList.add("card")
 
     booksSection.appendChild(newBook)
